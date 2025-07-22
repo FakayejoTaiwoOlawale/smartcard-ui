@@ -42,7 +42,7 @@ This is a modern UI component built using **Vite + React + TypeScript + Tailwind
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/FakayejoTaiwoOlawale/smartcard-ui.git
 
 # 2. Navigate into the folder
 cd your-repo-name
